@@ -41,5 +41,5 @@ async def blowjob(ctx):
 
 if __name__ == "__main__":
     logging.info('Application Start')
-    bot.run(Settings['token'])
+    bot.run(Settings['NjAwNDYxMjk3NzQxNDYzNTUy.XS5YPw.TTm-ySGMiq_OHqiwtQsMQQArWRs'])
     
