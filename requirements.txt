@@ -1,5 +1,2 @@
-discord
-asyncio
-pymoe
-youtube_dl
-pip
+discord.py
+python-dotenv
